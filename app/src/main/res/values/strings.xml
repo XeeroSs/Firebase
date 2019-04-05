@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">XerFirebase</string>
+
+    <string name="connection_succeed">Authentification réussie</string>
+    <string name="error_authentication_canceled">Authentification annulée</string>
+    <string name="error_no_internet">Aucune connexion, veuillez réessayer</string>
+    <string name="error_unknown_error">Authentification échouée</string>
+    <string name="title_activity_profiles">ProfilesActivity</string>
+    <string name="info_no_username_found">Utilisateur non trouvé</string>
+    <string name="info_no_email_found">Email non trouvé</string>
+    <string name="popup_message_confirmation_delete_account">Confirmer la suppression de votre compte ?</string>
+    <string name="popup_message_choice_yes">Confirmer</string>
+    <string name="popup_message_choice_no">Annuler</string>
+    <string name="button_login_text_logged">Voir mon compte</string>
+    <string name="button_login_text_not_logged">Me connecter</string>
+
+</resources>
